@@ -1,0 +1,8 @@
+section h1 {
+    @apply
+    lg:text-3xl
+    font-semibold
+    md:text-2xl
+    text-lg
+
+}

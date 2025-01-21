@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+footer li{
+    color: #6b7280;
+    font-size:medium;
+}
+footer h1{
+    @apply
+    text-lg md:text-xl lg:text-2xl
+    text-[#1B6F70]
+}
+nav ul > li {
+    @apply hover:scale-105 hover:text-[#1B6F70]
+}
